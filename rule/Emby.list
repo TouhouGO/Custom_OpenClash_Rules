@@ -2,21 +2,5 @@
 # AUTHOR: Aethersailor
 # REPO: https://github.com/Aethersailor/Custom_OpenClash_Rules
 # 需要走代理的 Emby 服务的相关规则
-DOMAIN-SUFFIX,pub1.emby.wtf
-DOMAIN-SUFFIX,pub2.emby.wtf
-DOMAIN-SUFFIX,pub3.emby.wtf
-DOMAIN-SUFFIX,xmsl.org
-DOMAIN-SUFFIX,misakaf.org
-DOMAIN-SUFFIX,stream1.misakaf.org
-DOMAIN-SUFFIX,stream2.misakaf.org
-DOMAIN-SUFFIX,stream3.misakaf.org
-DOMAIN-SUFFIX,stream4.misakaf.org
-DOMAIN-SUFFIX,embyplus.org
-DOMAIN-SUFFIX,free.emby.eu.org
-DOMAIN-SUFFIX,misty.ltd
-DOMAIN-SUFFIX,public.emby.ws
-DOMAIN-SUFFIX,free.emby.eu.org
-DOMAIN-SUFFIX,9wfree.emby.eu.org
-DOMAIN-SUFFIX,dpxcf.niceduck.lol
-DOMAIN-SUFFIX,cf.niceduck.lol
-DOMAIN-SUFFIX,jcf.niceduck.lol
+DOMAIN-SUFFIX,emby.moe
+DOMAIN-SUFFIX,niceduck.lol
