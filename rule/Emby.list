@@ -4,3 +4,5 @@
 # 需要走代理的 Emby 服务的相关规则
 DOMAIN-SUFFIX,emby.moe
 DOMAIN-SUFFIX,niceduck.lol
+DOMAIN-SUFFIX,emby.moe
+DOMAIN-SUFFIX,xxlb.net
